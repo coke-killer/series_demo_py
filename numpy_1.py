@@ -1,6 +1,6 @@
 # __author__: "yudongyue"
 # date: 2021/3/8
-import numpy_4 as np
+import numpy as np
 
 print('使列表生成一维数组')
 data = [1, 2, 3, 4, 5]

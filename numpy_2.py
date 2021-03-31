@@ -1,6 +1,6 @@
 # __author__: "yudongyue"
 # date: 2021/3/8
-import numpy_4 as np
+import numpy as np
 
 print('生成指定类型的数组：设置dtype属性')
 x = np.array([1, 2, 6, 3], dtype=np.int64)

@@ -1,6 +1,6 @@
 # __author__: "yudongyue"
 # date: 2021/3/8
-import numpy_4 as np
+import numpy as np
 
 l = [[1, 2, 3], ['1', 'a', 'c']]
 as_array = np.asarray(l)

@@ -1,6 +1,6 @@
 # __author__: "yudongyue"
 # date: 2021/3/8
-import numpy_4 as np
+import numpy as np
 
 # 矢量运算
 print('ndarray数组与标量/数组的运算')
