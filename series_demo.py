@@ -11,6 +11,7 @@ v = {
     'c': 'c'
 }
 
+
 c = np.array([1, 2, 3, '1'])
 print(c)
 print(c.ndim)
